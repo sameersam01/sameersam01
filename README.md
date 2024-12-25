@@ -1,4 +1,4 @@
-[![MasterHead]([fYnlfaWQmY3Q9Zw/NKEt9elQ5cR68](https://giphy.com/embed/1zRfp0Jwsag4yPekP4)/giphy.gif)]()
+[![MasterHead]((https://giphy.com/embed/1zRfp0Jwsag4yPekP4)/giphy.gif)]()
 <h1 align="center">Hi 👋, I'm SAMEER SHRIVASTAVA</h1>
 <h3 align="center">Fullstack Developer from India</h3>
 
